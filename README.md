@@ -1,2 +1,21 @@
-# Netflix-Movie-Analysis
-This project analyzes Netflix movie data to uncover trends in genres, release years, ratings, and country-wise distribution. Using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn, we clean, process, and visualize the data to extract insights. Key findings include the dominance of Drama and Comedy genres, an increasing number of movie releases over time, and the USA being the top content contributor. The analysis helps understand viewer preferences and Netflix's content strategy.
+# Netflix Movie Data Analysis  
+
+## Project Overview  
+This project explores **Netflix movie data** to find patterns in **genres, release years, ratings, and country-wise distribution**. The goal is to understand content trends and what Netflix focuses on.  
+
+## What I Did  
+Using **Python** and popular data libraries, we:  
+✔️ Cleaned and processed the dataset  
+✔️ Analyzed movie genres and their popularity  
+✔️ Tracked how movie releases changed over time  
+✔️ Examined country-wise content distribution  
+
+## Key Insights  
+📌 **Drama & Comedy** are the most common genres 
+📌 **More movies** are being released over time   
+📌 The **USA** produces the highest number of Netflix movies 
+
+## Tools & Libraries Used  
+- **Python**  
+- **Pandas & NumPy** → Data cleaning & manipulation  
+- **Matplotlib & Seaborn** → Data visualization  
